@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IbrahimZatary
+- 👀 I’m interested in codind 
+- 🌱 I’m currently learning c++
