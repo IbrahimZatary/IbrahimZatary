@@ -1,8 +1,8 @@
-<h1 align="center">Software Engineer</h1>
+<h1 align="left">Software Engineer</h1>
 
 ###
 
-<h3 align="center">I'm a Full stack Developer - React.Js & Laravel</h3>
+<h3 align="left">Full stack Developer - React.Js & Laravel</h3>
 
 ###
 
