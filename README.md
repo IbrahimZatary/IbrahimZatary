@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left"><Collaborate / ></p>
+<h2 align="center"><Collaborate ?></h2>
 
 ###
 
