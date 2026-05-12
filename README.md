@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Full-stack developer specializing in React.js, Laravel, and cloud fundamentals.<br>Focused on building scalable, applications with clean and reliable architecture.</p>
+<p align="left">Specializing in Backend (ASP.NET Core) with React.js, Php/Laravel <br>Focused on building scalable applications with clean, layered architecture & security layer, unit tests, and REST APIs done right.
 
 ###
 
