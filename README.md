@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Full stack Developer - React.Js & Laravel</h3>
+<h3 align="left">Full-Stack Developer | ASP.NET Core • Laravel • React.js.</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Full-stack developer specializing in React.js, Laravel, and cloud fundamentals.<br>Focused on building scalable, high-performance applications with clean and reliable architecture.<br>Committed to continuous improvement, precise execution, and technology that simply works.</p>
+<p align="left">Full-stack developer specializing in React.js, Laravel, and cloud fundamentals.<br>Focused on building scalable, applications with clean and reliable architecture.</p>
 
 ###
 
