@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Specializing in Backend (ASP.NET Core & Laravel ) with React.js . <br>Focused on building scalable applications with clean, layered architecture & security layer, unit tests, and REST APIs done right.
+<p align="left">Specializing in Backend (ASP.NET Core & Laravel ) with React.js . <br>Focused on building scalable applications with clean, layered architecture & security layer, unit tests, and REST APIs that follow standard rules and best practices .
 
 ###
 
